@@ -47,4 +47,3 @@ id_cn += last_char
 print(id_cn)
 
 # mapping 
-
